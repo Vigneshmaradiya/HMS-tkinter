@@ -37,8 +37,8 @@ Download this all libraries in your local system using cmd or terminal.
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/Front_page_1.png">
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/Admin_Login_Page.png">
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/Admin_Main.png">
+<img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/Login_Page.png">
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/SIGN_UP_page.png">
-<img src = "https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/SIGN_UP_page.png">
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/doctor_main.png">
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/patient_main_page.png">
 <img src="https://github.com/Vigneshmaradiya/HMS-tkinter/blob/main/Images/about_page.png">

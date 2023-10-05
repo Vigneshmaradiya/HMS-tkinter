@@ -9,13 +9,13 @@ REQUIREMENTS FOR THE PROJECT :
 
 Libraries required are:
 
-1) Tkinter 
+1) Tkinter :
 To download use pip install tkinter
 
-2) PIL or pillow
+2) PIL or pillow :
 To download use pip install pillow
 
-3) mysql.connector
+3) mysql.connector :
 To download use pip install mysql.connector
 
 Download this all libraries in your local system using cmd or terminal.

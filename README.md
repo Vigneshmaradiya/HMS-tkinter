@@ -23,7 +23,7 @@ Download this all libraries in your local system using cmd or terminal.
 
 <h2>HOW TO USE :</h2>
 
-1) There is data files in hmsdb folder which you can import in your mysql workbench local instance.
+1) There is data files in <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/hmsdb">hmsdb</a> folder which you can import in your mysql workbench local instance.
 
 2) In the <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/Code">Code</a> folder you'll found the .py files for different portion of the project. In all the .py files change the MySQL login credintial wherever the connection is made as your Local instance in which you imported the data files of <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/hmsdb">hmsdb</a> folder. And <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/Images">Images</a> folder contains all the images which are used and Fonts folder contain fonts that is used.
 

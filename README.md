@@ -2,28 +2,20 @@
 
 <h2>REQUIREMENTS FOR THE PROJECT :</h2>
 
-1) Python
+1) Python language
 2) VS Code editor or any other
 3) MySQL database 
 
 
-<h2>Libraries required are:</h2>
-
-<p>1) Tkinter :<br>
-&emsp;To download use pip install tkinter</p>
-
-<p>2) PIL or pillow :<br>
-&emsp;To download use pip install pillow</p>
-
-<p>3) mysql.connector :<br>
-&emsp;To download use pip install mysql.connector</p>
+Libraries required are present in requirement.txt
+To Download : pip install -r requirement.txt
 
 Download this all libraries in your local system using cmd or terminal.
 
 
 <h2>HOW TO USE :</h2>
 
-1) There is data files in <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/hmsdb">hmsdb</a> folder which you can import in your mysql workbench local instance.
+1) There are data files in <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/hmsdb">hmsdb</a> folder which you can import in your mysql workbench local instance.
 
 2) In the <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/Code">Code</a> folder you'll found the .py files for different portion of the project. In all the .py files change the MySQL login credintial wherever the connection is made as your Local instance in which you imported the data files of <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/hmsdb">hmsdb</a> folder. And <a href = "https://github.com/Vigneshmaradiya/HMS-tkinter/tree/main/Images">Images</a> folder contains all the images which are used and Fonts folder contain fonts that is used.
 
